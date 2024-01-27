@@ -30,4 +30,6 @@
   "da": "Avail",
   "description": "RollApp for Defi Bro. You can chill with me. SOON",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5HHFdixGfXPLLdtw4WAzkVy67BJTC4qXHCSjMkfDHJk71eoK"
 }
